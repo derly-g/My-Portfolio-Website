@@ -68,7 +68,7 @@ span{
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
-.gradient-button{
+.gradient-btn{
   font-size: 1.8rem;
   padding: 1rem 2rem;
   border-radius: 3rem;
@@ -83,6 +83,6 @@ span{
   border: none;
   text-wrap: nowrap;
 }
-.gradient-button:hover{
+.gradient-btn:hover{
   transform: scale(1.05);
 }

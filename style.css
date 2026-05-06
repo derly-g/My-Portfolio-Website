@@ -99,7 +99,7 @@ section{
 }
 .home-content{
   display: flex;
-  flex-direction: colum;
+  flex-direction: column;
   aligned-items: flex-end;
   text-align: right;
 }

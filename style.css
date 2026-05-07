@@ -51,7 +51,7 @@ transition: 0.3s ease-in-out;
 span{
   background: linear-gradient(
     270deg,
-    #ffff4d 10%,
+    #FFAC1C 10%,
     #4d4dff 100%);
   background-clip: text;
   color: transparent;
@@ -74,7 +74,7 @@ span{
   border-radius: 3rem;
   background: linear-gradient(
     270deg,
-    #ffff4d 10%,
+    #FFAC1C 10%,
     #4d4dff 100%);
   letter-spacing: 1px;
   cursor: pointer;

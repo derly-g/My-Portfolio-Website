@@ -51,8 +51,8 @@ transition: 0.3s ease-in-out;
 span{
   background: linear-gradient(
     270deg,
-    #DF8908 10%,
-    #ff1d15 100%);
+    #4d4dff 10%,
+    #af00a8 100%);
   background-clip: text;
   color: transparent;
 }

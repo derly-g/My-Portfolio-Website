@@ -51,8 +51,8 @@ transition: 0.3s ease-in-out;
 span{
   background: linear-gradient(
     270deg,
-    #4d4dff 10%,
-    #af00a8 100%);
+    #ffff4d 10%,
+    #4d4dff 100%);
   background-clip: text;
   color: transparent;
 }
@@ -74,8 +74,8 @@ span{
   border-radius: 3rem;
   background: linear-gradient(
     270deg,
-    #DF8908 10%,
-    #ff1d15 100%);
+    #ffff4d 10%,
+    #4d4dff 100%);
   letter-spacing: 1px;
   cursor: pointer;
   transition: 0.3s ease-in-out;
@@ -430,24 +430,3 @@ box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px va
     flex-direction: column;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

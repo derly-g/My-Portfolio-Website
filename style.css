@@ -7,10 +7,10 @@
   font-family: "Teachers";
 }
 :root {
-  --bg-color: #080808;
+  --bg-color: #ffffff;
   --second-bg-color: #101010;
-  --text-color: white;
-  --main-color: #ea580c;
+  --text-color: black;
+  --main-color: #800080;
 }
 html {
   font-size: 60%;

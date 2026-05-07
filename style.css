@@ -30,7 +30,7 @@ body{
   backdrop-filter: blur(10px);
   display: flex;
   justify-content: space-between;
-  align-item: center;
+  align-items: center;
   z-index: 1000;
 }
 #menu-icon{
@@ -100,13 +100,13 @@ section{
 .home-content{
   display: flex;
   flex-direction: column;
-  aligned-items: flex-end;
+  align-items: flex-end;
   text-align: right;
 }
 .home-content h1{
   font-size: 8rem;
   font-weight: 700;
-  margintop: 1.5rem;
+  margin-top: 1.5rem;
   line-height: 1;
 }
 .home-content h3{
